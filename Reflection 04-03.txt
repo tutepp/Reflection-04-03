@@ -1,0 +1,15 @@
+Reflection 04-03
+Nội dung:
+- Thẻ Input
+- Phương thức POST và GET
+- Tạo bảng trong HTML
+- Tạo biểu mẫu cho trang web, Thẻ <form> được sử dụng để tạo các biểu mẫu, cho phép người dùng nhập dữ liệu và gửi về server.
+- Sử dụng input, button và textarea
+- Sử dụng select, option, thẻ <select> được sử dụng chung với thẻ <option> để tạo một danh sách drop-down hoặc list, cho phép chọn một hoặc nhiều hạng mục từ một danh sách có sẵn.
++ checkbox: lựa chọn nhiều hạng mục từ một danh sách
++ radio: lựa chọn một hạng mục từ một danh sách. Hiển thị toàn bộ danh sách cho người dùng thấy ngay từ đầu. Sử dụng tốt trong trường hợp có ít lựa chọn.
++ drop-down: lựa chọn một hạng mục từ một danh sách. Chỉ hiển thị hạng mục hiện tại được chọn, còn lại các hạng mục khác đều bị ẩn. Toàn bộ danh sách chỉ hiển thị khi người dùng click chuột vào.
++ list: lựa chọn nhiều hạng mục từ một danh sách.
+Khó khăn:
+- Nhiều loại thẻ nên chưa thực hành hết đuợc
+- Một số bài tập phầ này còn hơi khó
